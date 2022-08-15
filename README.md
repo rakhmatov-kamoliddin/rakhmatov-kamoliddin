@@ -5,7 +5,7 @@
 
 
 ## I'm a beginner Python Developer and FrontEnd Developer
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhmatov-kamoliddin&langs_count=8&layout=compact" />
+
 <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rakhmatov-kamoliddin&show_icons=true" />
 
 
