@@ -1,4 +1,8 @@
-![Kamoliddin Raxmatov (1)](https://user-images.githubusercontent.com/98594040/184675633-8a761d0b-58df-4aa2-b0ec-66cc625292b2.png)
+<!-- ![Kamoliddin Raxmatov (1)](https://user-images.githubusercontent.com/98594040/184675633-8a761d0b-58df-4aa2-b0ec-66cc625292b2.png) -->
+<!-- ![Kamoliddin Raxmatov (2)](https://user-images.githubusercontent.com/98594040/184677558-6c91cc20-cd1a-4daa-b1b4-8d391608b689.png) -->
+![Kamoliddin Raxmatov (3)](https://user-images.githubusercontent.com/98594040/184677798-5727a927-4418-4110-aa63-0ed029367814.png)
+
+
 
 ## I'm a beginner Python Developer and FrontEnd Developer
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhmatov-kamoliddin&langs_count=8&layout=compact" />
