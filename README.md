@@ -1,16 +1,12 @@
 ### Hi there 👋, I'm Vlad
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+[![Header](https://github.com/rakhmatov-kamoliddin/rakhmatov-kamoliddin/blob/main/asserts/proxy_form.cgi.png)]
 
-## I'm a FrontEnd Developer, and Teacher
-- 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+## I'm a beginner Python Developer and FrontEnd Developer
+
 
 ### Connect with me:
-
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 [<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="VladKalachev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
