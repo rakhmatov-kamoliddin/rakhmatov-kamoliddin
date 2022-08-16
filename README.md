@@ -10,8 +10,8 @@
 
 <p align="center">
 <a href="https://github.com/islombeknv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islombeknv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islombeknv&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakhmatov-kamoliddinv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakhmatov-kamoliddin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
