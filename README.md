@@ -30,3 +30,15 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com)
 [![VK](https://img.shields.io/badge/-Vkontacte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://www.vk.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com)
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/islombeknv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islombeknv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islombeknv&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
