@@ -6,7 +6,12 @@
 
 ## I'm a beginner Python Developer and FrontEnd Developer
 
-<img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rakhmatov-kamoliddin&show_icons=true" />
+<p align="center">
+<a href="https://github.com/islombeknv">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islombeknv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islombeknv&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 
@@ -33,12 +38,5 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/islombeknv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=islombeknv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=islombeknv&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
