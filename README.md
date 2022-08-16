@@ -3,7 +3,7 @@
 ![Kamoliddin Raxmatov (3)](https://user-images.githubusercontent.com/98594040/184677798-5727a927-4418-4110-aa63-0ed029367814.png)
 
 <p>I am a Back-end developer, I'm a Competitive Programmer, I also like to create projects in Python.</p>
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<!-- <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"> -->
 
 
 ## I'm a beginner Python Developer and FrontEnd Developer
