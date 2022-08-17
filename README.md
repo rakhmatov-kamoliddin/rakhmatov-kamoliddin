@@ -10,7 +10,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakhmatov-kamoliddin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakhmatov-kamoliddin&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
   <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=rakhmatov-kamoliddin&theme=dark&background=000000"/>
+  
 </a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakhmatov-kamoliddin&theme=vision-friendly-dark" alt="info">
 </p>
 
 
@@ -37,5 +39,8 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
+
+
+
 
 ![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
