@@ -6,12 +6,12 @@
 ## I'm a beginner Python Developer and FrontEnd Developer
 
 <p align="center">
-<a href="https://github.com/islombeknv">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakhmatov-kamoliddin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakhmatov-kamoliddin&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/rakhmatov-kamoliddin">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakhmatov-kamoliddin&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakhmatov-kamoliddin&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+  <img height="200em" src="http://github-readme-streak-stats.herokuapp.com?user=rakhmatov-kamoliddin&theme=dark&background=000000"/>
 </a>
 </p>
-
 
 
 
