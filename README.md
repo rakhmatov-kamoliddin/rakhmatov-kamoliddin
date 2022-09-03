@@ -3,7 +3,7 @@
 ![Kamoliddin Raxmatov (3)](https://user-images.githubusercontent.com/98594040/184677798-5727a927-4418-4110-aa63-0ed029367814.png)
 
 
-## I'm a beginner Python Developer and FrontEnd Developer
+## I'm a Junior Python Developer and FrontEnd Developer
 
 <p align="center">
 <a href="https://github.com/rakhmatov-kamoliddin">
