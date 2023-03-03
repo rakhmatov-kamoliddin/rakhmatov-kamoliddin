@@ -31,7 +31,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=1C9DEB)](https://www.twitter.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com)
-[![VK](https://img.shields.io/badge/-Vkontacte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://www.vk.com)
+[![VK](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://www.vk.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com)
 
 
